@@ -15,9 +15,12 @@ public class Exercicio04 {
         tonto.citNacimento = "Rio de janeiro";
         tonto.numMatricula = 121212;
 
-        mane.exibirDados();
+     //   mane.exibirDados("mane",20,"Sao paulo");
 
-        tonto.exibirDados();
+        tonto.exibirDados("tonto",50,"Rio de janeiro");
+
+
+        System.out.println(mane.exibirDados("mane", 20,"sao paulo");
     }
 
 }

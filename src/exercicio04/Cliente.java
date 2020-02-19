@@ -5,7 +5,4 @@ public class Cliente extends Pessoa {
 
 
 
-    public void exibirDados() {
-        System.out.println();
-    }
 }
