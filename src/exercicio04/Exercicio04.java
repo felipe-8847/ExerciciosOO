@@ -2,25 +2,15 @@ package exercicio04;
 
 public class Exercicio04 {
     public static void main(String[] args) {
-        Cliente mane = new Cliente();
-        Funcionario tonto = new Funcionario();
+        Cliente mane = new Cliente("mane",20," Sao Paulo","94949494949");
+        Funcionario tonto = new Funcionario("tonto",50," Rio De Janeiro",121212);
 
-        mane.nome = "mane";
-        mane.cpf = "t12345t1234";
-        mane.idade = 20;
-        mane.citNacimento = "Sao paulo";
+        mane.exibirDados();
+        System.out.println("=======================");
+        tonto.exibirDados();
+        // No exercicio não pede pera usar o construtor
+        // porem para resolver o execicio 04 eu tive que usar o contrutor.
 
-        tonto.nome = "tonto";
-        tonto.idade = 50;
-        tonto.citNacimento = "Rio de janeiro";
-        tonto.numMatricula = 121212;
-
-     //   mane.exibirDados("mane",20,"Sao paulo");
-
-        tonto.exibirDados("tonto",50,"Rio de janeiro");
-
-
-        System.out.println(mane.exibirDados("mane", 20,"sao paulo");
     }
 
 }

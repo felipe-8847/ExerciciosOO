@@ -5,7 +5,10 @@ public class Pessoa {
     public int idade;
     public String citNacimento;
 
-    public void exibirDados(String nome,int idade, String citNacimento) {
-        System.out.println();
+
+    public void exibirDados() {
+        System.out.println(" nome " + nome);
+        System.out.println(" idade " + idade + " anos");
+        System.out.println(" cidade de nacimento" + citNacimento);
     }
 }

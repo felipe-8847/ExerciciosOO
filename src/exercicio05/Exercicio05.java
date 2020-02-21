@@ -15,9 +15,12 @@ public class Exercicio05 {
         antigo.ehfeitoDe = "metal";
         antigo.escreCom = "nanquim";
 
-        System.out.println(bic.escreCom);
-        System.out.println(castel.escreCom);
-        System.out.println(antigo.escreCom);
+        bic.escrever();
+        System.out.println("====================");
+        castel.escrever();
+        System.out.println("====================");
+        antigo.escrever();
+
 
     }
 }
