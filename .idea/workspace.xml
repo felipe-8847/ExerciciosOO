@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9320eb69-8d03-4a54-807c-20c889a44d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/Escrever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio03/Execicio03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio03/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio03/Livro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio04/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio04/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio04/Exercicio04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio04/Exercicio04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio04/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio04/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio04/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio04/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio05/Caneta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio05/Caneta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio05/Exercicio05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio05/Exercicio05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio05/Lapis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio05/Lapis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio05/Pena_mosquito.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio05/Pena_mosquito.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio03/Execicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio03/Execicio03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio03/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio03/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio04/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio04/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio04/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio04/Exercicio04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio04/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio04/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio04/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio04/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio05/Caneta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio05/Caneta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio05/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio05/Exercicio05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio05/Lapis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio05/Lapis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio05/Pena_mosquito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio05/Pena_mosquito.java" afterDir="false" />
-    </list>
+    <list default="true" id="9320eb69-8d03-4a54-807c-20c889a44d78" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
